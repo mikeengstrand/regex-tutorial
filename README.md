@@ -50,4 +50,6 @@ Character escapes are used when you need to match a character that is hard to re
 
 ## Author - Michael Engstrand
 Here is a link to my Github: https://github.com/mikeengstrand
+
+## Gist
 Attached is a link to the gist I have created: https://gist.github.com/mikeengstrand/45ccee34f5d0983addc6a58bef82d3ad
